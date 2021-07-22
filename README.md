@@ -1,4 +1,4 @@
-https://romanova404.github.io/test/ 
+https://romanova404.github.io/validation/
 v0.0.5
 
 Registration form for submitting made to train regexp skills for input validation
